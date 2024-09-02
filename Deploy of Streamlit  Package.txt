@@ -1,0 +1,35 @@
+step1:
+pip install virtualenv
+
+step2:
+python -m venv model_Deployment_claiments
+
+step3:
+copy the required files what we have prepared in the above folder
+
+step4:
+cd model_Deployment_claiments
+cd Scripts
+
+step5: changes from base to model_Deployment_claiments
+activate
+
+step6: pip install streamlit
+
+step7: streamlit hello
+emaild: 
+
+step8: take a look about streamlit
+control C - to stop prompt
+
+step9: streamlit run 1.logistic.py
+
+note: We will get error, so go back and install pip install scikit-learn
+
+step10: pip install scikit-learn
+(or)
+step10: pip install sklearn
+
+step11: streamlit run 1.logistic.py
+
+
